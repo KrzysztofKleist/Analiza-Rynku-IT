@@ -1,0 +1,3 @@
+it-offers-venv/
+job_offers_db.db
+logs/db_connection.log
