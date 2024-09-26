@@ -1,7 +1,9 @@
 it-offers-venv/
 job_offers_db.db
 logs/db_connection.log
+logs/selenium.log
 worker/settings.json
+**/__pycache__/
 webapp/00-trial-react-app/node_modules/
 webapp/00-trial-react-app/package-lock.json
 webapp/05-react/node_modules/
